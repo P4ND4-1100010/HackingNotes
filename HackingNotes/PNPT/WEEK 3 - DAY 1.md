@@ -9,3 +9,5 @@ External:
 
 Internal:
 	Bad patching
+	
+![[Pasted image 20220706181815.png]]
