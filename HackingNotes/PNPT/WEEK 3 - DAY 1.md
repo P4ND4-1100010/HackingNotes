@@ -16,4 +16,4 @@ https://github.com/hmaverickadams/External-Pentest-Checklist
 
 ROE = Rules of engagement
 ![[Pasted image 20220706182723.png]]![[Pasted image 20220706182902.png]]![[Pasted image 20220706183017.png]]![[Pasted image 20220706183116.png]]
-HURRICANE ELECTRIC INTERNET SERVICES
+HURRICANE ELECTRIC INTERNET SERVICES![[Pasted image 20220706185321.png]]
