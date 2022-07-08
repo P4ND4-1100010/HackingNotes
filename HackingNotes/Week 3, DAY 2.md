@@ -11,3 +11,9 @@ site:<domain>
 AND
 OR
 * = WILDCARD
+filetype:<type>
+-
+intext:
+inurl:
+intitle:
+google.com/advanced_search
