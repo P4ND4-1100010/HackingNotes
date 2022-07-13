@@ -42,9 +42,32 @@ Buscan obtener la mayor cantidad de información útil sobre la víctima, con el
 
 ###### Tipos de código dañino
 * Ransomware
+
+	Su objetivo es secuentrar datos de la víctima encriptándolos y pidiendo un rescate por ellos.
+
 * Troyano
-	*
+	
+	Programa que realiza aparentemente una función útil
+	
 * Gusano
+
+	Diseñado para copiarse y propagarse mediante mecanismos de red
+
 * Rookit
+	
+	Colección de herramientas usadas para ocultar una intrusión
+	
 * Adware
+	
+	Genera publicidad en el equipo de la víctima
+	
 * Spyware
+	
+	Programas idependites y ejecutables. Se encargan de monitorizar el equipo de la víctima.
+
+### Deep Web
+Solo accesible desde determinados navegadores web.
+
+#### La red TOR
+Permite a los usuarios navegar por la web de forma anónima.
+Los datos viajan a tra
