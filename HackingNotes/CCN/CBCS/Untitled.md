@@ -70,4 +70,15 @@ Solo accesible desde determinados navegadores web.
 
 #### La red TOR
 Permite a los usuarios navegar por la web de forma anónima.
-Los datos viajan a tra
+Los datos viajan a través de nodos.
+Existe un directorio de nodos intermedios con claves públicas asociadas para poder establecer la comunicación cifrada.
+
+Tor crea circuítos virtuales compuestos por tres nodos aleatoriamente escogidos de su red.
+El elemento origen cifra la comunicación con la clave pública del último nodo de la ruta escogida.
+
+#### BitCoin
+Las transacciones se hacen a través de P2P
+Cada transacción se guarda en una base de datos denominada BlockChain, sustentada por un Red de Mineros.
+Permite transacciones de forma anónima.
+Muy práctico para blanquear dinero y evadir impuestos.
+### Aplicaciones
