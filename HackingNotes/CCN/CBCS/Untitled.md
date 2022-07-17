@@ -131,9 +131,39 @@ Las aplicaciones antimalware deben disponer de actualizaciones regulares y ser p
 #### Borrado seguro de datos
 Deben realizarse diversas pasadas de escritura sobra cada uno de los sectores donde se almacena la información.
 ### Navegación segura y correo electrónico
+
 El navegador web permite el acceso a la siguiente información:
 * La IP pública con la que se conecta el usuario
 * La resolución de pantalla
 * El valor del campo "User-Agent"
 * Qué páginas se leen y cuales no
-* E
+* El idioma y zona GMT de SO.
+* Si aceptan o no "cookies"
+* Las fuentes del sistema y plugins intalados.
+
+#### Navegación segura
+
+Recomendaciones para una navegación segura:
+* Acceder únicamente a sitios de confianza
+* Mantener actualizado el navegador a la última versión disponible.
+* Configurar el nivel de seguridad del navegador según sus preferencias
+* Descargar los programas desde sitios oficiales para evitar suplantaciones maliciosas.
+* Configurar el navegador para evitar ventanas emergente.
+* Utilizar un usuario sin permisos de "adminitrador" para navegar por Internet e impedir la instalación de programas y cambios en los valores del sistema.
+* Borrar las "cookies", los ficheros temporales y ele historial cuando se utilicen equipos ajenos para no dejar rastro de la navegación.
+* Desactivar la posiblidad "script" en navegadores web.
+* Hacer uso de HTTPS (SSL/TLS) frente a HTTP
+* Emplear máquinas virtuales para navegar por internet
+
+#### Correo electrónico
+
+Recomendaciones:
+* No abrir ningún enlace ni descargar ningún fichero adjunto de correos sospechosos.
+* No confiar únicamente en el nombre del remitente.
+* Fijarse en la extensión del fichero adjunto
+* No habilitar macros de los documentos ofimáticos.
+* No hacer clic en ningín enlace que solicite datos personales o bancarios.
+* Tener siempre actualizado el SO, las aplicaciones ofimáticas y el navegador.
+* Utilizar herramientas de seguridad para mitigar exploits de manera complementaria la software antivirus.
+* Evitar hacer clic directamente en cualquier enlace desde el propio cliente de correo.
+* Utilizar contraseñas robust
