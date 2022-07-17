@@ -195,3 +195,21 @@ Indicaciones a la hora de configurar un guest:
 
 ### Seguridad de Dispositivos Móviles y Redes Inalámbricas
 
+#### Dispositivos móviles
+Recomendaciones:
+* Establecer un método seguro para desbloquear el terminal.
+* Eliminar previsualización de los mensajes.
+* Deshabilitar las conexiones innecesarias mientras no vayan a utilizarse.
+* Mantener actualizado el software del dispositivo.
+* Tener cuidado con el acceso y las solicitudes de permisos de las aplicaciones.
+* Ignorar y borrar mensajes de origen desconocido que invitan a descargar contenidos o acceder a sitios web.
+* Activar el acceso PIN a las conexiones Bluetooth y configurar el dispositivo en modo oculto.
+* Descargar aplicaciones únicamente de las tiendas oficiales.
+* Evitar realizar jailbreaking o rooting del terminal.
+* Utilizar una VPN.
+* Evitar en la medida de lo posible el uso de impresoras, faxes o redes WiFi públicas, salvo que se disponga de las herramientas necesarias para asegurar sus comunicaciones.
+* Limpiar metadatos de imágenes.
+* Separar comunicaciones personales de las profesionales.
+* Implementar la gestión centralizada de dispositivos móviles mediante el empleo de agentes MDM (Mobile Device Management).
+
+#### Redes inalámbricas
