@@ -255,4 +255,10 @@ Buenas prácticas para su uso:
 * Emplear autenticación en dos factores.
 * Escoger cuidadosamente nuestros amigos.
 * No permitir a las redes sociales examinar la libreta de direcciones de correo.
-* Prestar atención a los servicios de localización y la información del teléfono
+* Prestar atención a los servicios de localización y la información del teléfono móvil.
+* Precaución con los enlaces.
+* Escribir directamente la dirección de su sitio de redes sociales en el navegador.
+* Tener precaución al instalar elementos adicionales.
+* Revisar la información publicada.
+*
+### Internet de las cosas (IoT)
