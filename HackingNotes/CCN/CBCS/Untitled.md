@@ -166,4 +166,14 @@ Recomendaciones:
 * Tener siempre actualizado el SO, las aplicaciones ofimáticas y el navegador.
 * Utilizar herramientas de seguridad para mitigar exploits de manera complementaria la software antivirus.
 * Evitar hacer clic directamente en cualquier enlace desde el propio cliente de correo.
-* Utilizar contraseñas robust
+* Utilizar contraseñas robustas para el acceso al correo electrónico.
+* Cifrar los mensajes de correo que contengan información sensible.
+
+### Virtualización
+La virtualización tiene la misma premisa que cualquier otro sistema, que es la minimización de la superficie de ataque.
+
+Indicaciones al a hora de configurar un host de máquinas virtuales:
+* Últimas actualizaciones del SO.
+* Última version disponible del sistema de virtualización.
+* Tener al menos un adaptador de red en exclusiva para la infraestructura de virtualización.
+* Crear un entorno de 
