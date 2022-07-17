@@ -82,3 +82,22 @@ Cada transacción se guarda en una base de datos denominada BlockChain, sustenta
 Permite transacciones de forma anónima.
 Muy práctico para blanquear dinero y evadir impuestos.
 ### Aplicaciones
+
+#### Buenas prácticas
+* Trabajar con usuario sin privilegios
+* No ejecutar programas de origen dudoso
+* Desactivar ejecución automática de macros en los programas de ofimática.
+
+#### Cifrado de datos
+Significa convertir texto plano a texto ilegible (texto cifrado), evitando que la información sea accesible por personal no autorizado.
+
+Se clasifican en 3 tipos de cifrado:
+* Cifrado de disco
+* Cifrado de carpetas
+* Cifrado de documentos
+
+#### Cortafuegos personales
+
+
+
+
