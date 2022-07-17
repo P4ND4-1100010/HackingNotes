@@ -97,6 +97,37 @@ Se clasifican en 3 tipos de cifrado:
 * Cifrado de documentos
 
 #### Cortafuegos personales
-Son programas que monitorizan las 
+
+Son programas que monitorizan las conexiones entrates y salientes del equipo.
+Bloquean el acceso no autorizado al equipo permitiendo al mismo tiempo las comunicaciones autorizadas.
+Lo más complicado de un firewall es su correcta configuración.
+
+#### Aplicaciones antimalware
+
+El código malicioso o malware puede provocar:
+* Borrado o alteración de archivos
+* Consumo de recursos
+* Accesos no autorizados a archivos
+* Infección remota de los equipos
+* etc
+
+Las funciones mínimas de una herramienta antimalware:
+* Filtrado
+* Protección
+* Análisis
+
+Las aplicaciones antimalware deben disponer de actualizaciones regulares y ser productos comerciales de confianza que permitan una combinación de los siguientes métodos:
+* Escáner de acceso
+	Escanea archivos cuando son abiertos
+* Escáner de demanda
+	Escaner bajo un calendario establecido
+* Escáner de correos electrónicos
+* Control de firmas
+* Métodos heurísticos
 
 
+
+
+#### Borrado seguro de datos
+Deben realizarse diversas pasadas de escritura sobra cada uno de los sectores donde se almacena la información.
+### Navegación segura y correo electr
