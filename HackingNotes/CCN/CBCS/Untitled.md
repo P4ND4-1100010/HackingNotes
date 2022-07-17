@@ -172,8 +172,26 @@ Recomendaciones:
 ### Virtualización
 La virtualización tiene la misma premisa que cualquier otro sistema, que es la minimización de la superficie de ataque.
 
-Indicaciones al a hora de configurar un host de máquinas virtuales:
+Indicaciones a la hora de configurar un host de máquinas virtuales:
 * Últimas actualizaciones del SO.
 * Última version disponible del sistema de virtualización.
 * Tener al menos un adaptador de red en exclusiva para la infraestructura de virtualización.
-* Crear un entorno de 
+* Crear un entorno de laboratorio aislado del entorno de producción
+* Disponer de un grupo de seguridad para gestionar la plataforma de seguridad.
+* Proteger los dispositivos de almacenamientos en los que se guardan los archivos de recursos y definición de la máquina virtual.
+* Mantener estrancos a los administradores de los guest respecto a los de host.
+
+Indicaciones a la hora de configurar un guest:
+* Hacer esquema previo de la infraestructura de virtualización
+* Dimensionar la creación de máquinas virtuales a las necesidades reales y a los recursos de hardware disponibles en el host.
+* Cifrar los ficheros de máquinas virtuales, instantaneas y discos duros virtuales destinados al almacenamiento de la platafaroma de virtualización.
+* Instalar las últimas actualizaciones de seguridad en cada sistema operativo guest.
+* Valorar la instalación de los agentes de hipervisor, tipo Guest Additions, y en caso de hacerlo, mantenerlos actualizados.
+* Asegurar con antimalware y firewalls todos los sistemas operativos invitados.
+* Conectar DVD, CD y medios externos solo cuando sea necesario y desactivarlos tras su uso.
+* Mantener activas solamente las máquinas virtuales imprescindibles.
+* Usar para la conexión con la red corporativo o con Internet una interfaz de red virtual diferenciada que de deberá desactivar cuando no se vaya a utilizar.
+* Cifrar los medios de almacenamiento externos que contenga ficheros de virtualización de respaldo y custodiarlos convenientemente.
+
+### Seguridad de Dispositivos Móviles y Redes Inalámbricas
+
