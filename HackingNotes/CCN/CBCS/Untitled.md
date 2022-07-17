@@ -131,3 +131,9 @@ Las aplicaciones antimalware deben disponer de actualizaciones regulares y ser p
 #### Borrado seguro de datos
 Deben realizarse diversas pasadas de escritura sobra cada uno de los sectores donde se almacena la información.
 ### Navegación segura y correo electrónico
+El navegador web permite el acceso a la siguiente información:
+* La IP pública con la que se conecta el usuario
+* La resolución de pantalla
+* El valor del campo "User-Agent"
+* Qué páginas se leen y cuales no
+* E
