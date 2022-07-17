@@ -213,3 +213,18 @@ Recomendaciones:
 * Implementar la gestión centralizada de dispositivos móviles mediante el empleo de agentes MDM (Mobile Device Management).
 
 #### Redes inalámbricas
+Recomendaciones:
+* Cambiar la contraseña de acceso por defecto para la administración del Punto de Acceso.
+* Modificar el SSID configurado por defecto no empleando nombres que pudieran identificar a la entidad y que permitan pasar desapercibidos.
+* Activar el filtrado de direcciones MAC de los dispositivos WiFi para permitir que se conecten los dispositivos con las direcciones MAC especificadas.
+* Configurar WPA2-AES en modo de confidencialidad de datos.
+* Limitar la cobertura WLAN.
+* Desconectar la red cuando no se utilice.
+* Desactivar UPnP.
+* Actualizar el "firmware" del router periódicamente.
+* Usar direcciones IP estáticas o limitar el número de direcciones reservadas.
+* Activar el cortafuegos del router.
+* Activar la opción de registro para el router y analizar periódicamente el historial de accesos.
+* Cambiar el DNS  que por defecto trae configurado el router (Usar uno como DNSCrypt).
+
+### Mensajaría instantanea y redes sociales
