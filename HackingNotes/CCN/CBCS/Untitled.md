@@ -130,4 +130,4 @@ Las aplicaciones antimalware deben disponer de actualizaciones regulares y ser p
 
 #### Borrado seguro de datos
 Deben realizarse diversas pasadas de escritura sobra cada uno de los sectores donde se almacena la información.
-### Navegación segura y correo electr
+### Navegación segura y correo electrónico
