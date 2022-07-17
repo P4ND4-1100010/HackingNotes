@@ -229,3 +229,30 @@ Recomendaciones:
 
 ### Mensajaría instantanea y redes sociales
 #### Mensajería instantanea
+
+Riesgos:
+* Fallos a la hora de borrar las conversaciones almacenadas.
+* Implicaciones de terner activa la copia de seguridad.
+* Conexión a los servicios usando Wifi públicas o de dudosa procedencia.
+
+Recomendaciones:
+* Mantener el teléfono bloqueado.
+* Eliminar la previsualización de los mensajes.
+* Configuración de las aplicaciones
+	
+	Para solo recibir mensajes de las personas autorizadas.
+	
+* Desactivar la conectividad adicional del teléfono.
+* Código abierto y revisado.
+
+#### Redes sociales
+El factor humano es el eslabón más débil.
+
+Buenas prácticas para su uso:
+* Creación cuidadosa del perfil y la configuración de privacidad.
+* Reflexión sobre todo lo que se publica y emplear un pseudónimo.
+* Emplear constraseñas complejas.
+* Emplear autenticación en dos factores.
+* Escoger cuidadosamente nuestros amigos.
+* No permitir a las redes sociales examinar la libreta de direcciones de correo.
+* Prestar atención a los servicios de localización y la información del teléfono
