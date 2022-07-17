@@ -97,7 +97,6 @@ Se clasifican en 3 tipos de cifrado:
 * Cifrado de documentos
 
 #### Cortafuegos personales
-
-
+Son programas que monitorizan las 
 
 
