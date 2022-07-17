@@ -228,3 +228,4 @@ Recomendaciones:
 * Cambiar el DNS  que por defecto trae configurado el router (Usar uno como DNSCrypt).
 
 ### Mensajaría instantanea y redes sociales
+#### Mensajería instantanea
