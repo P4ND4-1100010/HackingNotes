@@ -262,3 +262,12 @@ Buenas prácticas para su uso:
 * Revisar la información publicada.
 *
 ### Internet de las cosas (IoT)
+Red que interconecta miles de objetos físicos ofreciendo datos en tiempo real, convirtiendose en los sensores del mundo físico.
+Cada vez más cirberdelincuentes emplean IoT para realizar ataques de denegación de servicio (DDoS). 
+
+Aspectos de vital importancia:
+* Seguridad.
+* Interoperabilidad
+* Manejabilidad de dichos sistemas.
+
+
