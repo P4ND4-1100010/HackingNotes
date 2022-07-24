@@ -1,3 +1,11 @@
+# Examples of SQL Injection
+
+* Retrieving hidden data
+Subverting application logic
+UNION attacks
+Examining the database
+Blind SQL injection
+
 ``'
 `ASCII(97)
 ``' OR 1=1--
