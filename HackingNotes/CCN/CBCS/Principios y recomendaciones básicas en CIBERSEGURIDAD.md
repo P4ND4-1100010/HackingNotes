@@ -270,4 +270,20 @@ Aspectos de vital importancia:
 * Interoperabilidad
 * Manejabilidad de dichos sistemas.
 
+Se debe establecer técnicas de monitorización y control para reducir la exposición al riesgo.
 
+Se deberá:
+
+* Cambiar las contraseñas por defecto.
+* Mantener actualizados los dispositivos.
+* Desactivar la conectividad remota cuando no se utilicen y mantener deshabilitados los componentes no necesarios.
+* Mantener abiertos solo los puertos de comunicación que sean realmente necesarios y modificar los puertos de escucha si es posible.
+* Si no permiten la configuración de seguridad, operar con ellos siempre en una LAN.
+* Comprobar la visibilidad de los dispositivos en buscadores de dispositivos IoT.
+* Asegurar la autenticidad, confidencialidad e integridad de todas las comunicaciones LAN.
+* Comprobar periódicamente la configuración de seguridad.
+
+
+
+
+### Política de seguridad
