@@ -287,3 +287,17 @@ Se deberá:
 
 
 ### Política de seguridad
+Es un conjunto de reglas que se deciden aplicar en las actividades del sistema y a los recursos de comunicaciones que pertenecen a una organización.
+Las reglas incluyen: Seguridad física, personal, administrativa y de la red.
+Define qué se desea proteger.
+
+
+
+El diseño de una estrategia de seguridad depende de la actividad que se desarrolle en la empresa.
+
+Pasos básicos para desarrollar una estrategia:
+
+* Crear una política de seguridad
+* Realizar un análisis de riesgos
+* Aplicar las salvaguardas
+* Concienciar a los usuarios
