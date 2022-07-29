@@ -334,4 +334,5 @@ Aspectos claves de una organización:
 Se deben establecer los mecanismos de gerencia y gestión de la seguridad.
 Es recomendable implantar el denominado SGSI (Sistema de Gestión de la Seguridad de la Información).
 
-El SGSI: Es u
+El SGSI: Es un conjunto de políticas de administración de la información, donde se definen implantan y mantienen un conjunto de procesos para gestionar eficientemente la accesibilidad de la información, buscando asegurar la confidencialidad, integridad y disponibilidad de los activos de información minimizando a la vez los riesgos de seguridad.
+
