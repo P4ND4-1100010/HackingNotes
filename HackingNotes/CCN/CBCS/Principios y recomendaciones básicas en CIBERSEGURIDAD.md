@@ -336,3 +336,13 @@ Es recomendable implantar el denominado SGSI (Sistema de Gestión de la Segurida
 
 El SGSI: Es un conjunto de políticas de administración de la información, donde se definen implantan y mantienen un conjunto de procesos para gestionar eficientemente la accesibilidad de la información, buscando asegurar la confidencialidad, integridad y disponibilidad de los activos de información minimizando a la vez los riesgos de seguridad.
 
+La estructura: Debe permitir identificar las personas que tienen el nivel de autoridad y responsabilidad sobre las diferentes tareas.
+
+La oficina de seguridad deberá:
+* Revisar y apoyar la implantación del modelo de gobernanza.
+* Análisis y adecuación normativa.
+* Análisis y gestion de los riesgos asociados a los activos.
+* Análisis y definición de cuadros de mando.
+* Auditorías de cumplimiento normativo.
+* Soporte a los órganos de gobierno de la seguridad.
+* Seguimiento y mejora del estado y gestión de la seguridad.

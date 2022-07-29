@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PNPT/WEEK 6, DAY 1, 2.md",
+            "file": "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT/WEEK 6, DAY 1, 2.md",
+                "file": "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "574dfbbcf3215f73",
   "lastOpenFiles": [
-    "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md",
     "PNPT/WEEK 6, DAY 1, 2.md",
+    "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md",
     "Burpsuite/SQL injection.md",
     "PNPT/WEEK 5, DAY 1.md",
     "PNPT/WEEK 4, DAY 2.md",
