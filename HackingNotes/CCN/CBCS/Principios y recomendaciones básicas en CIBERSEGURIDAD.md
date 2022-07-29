@@ -291,8 +291,6 @@ Es un conjunto de reglas que se deciden aplicar en las actividades del sistema y
 Las reglas incluyen: Seguridad física, personal, administrativa y de la red.
 Define qué se desea proteger.
 
-
-
 El diseño de una estrategia de seguridad depende de la actividad que se desarrolle en la empresa.
 
 Pasos básicos para desarrollar una estrategia:
@@ -301,3 +299,9 @@ Pasos básicos para desarrollar una estrategia:
 * Realizar un análisis de riesgos
 * Aplicar las salvaguardas
 * Concienciar a los usuarios
+
+**Análisis de riesgos**: identifica los riesgos a los que está expuesta la organización y sus posibles impactos, amenazas y vulnerabilidades que pueden ser explotadas.
+
+Una vez implantada una política de seguridad, determinando el riesgo que se está dispuesto a aceptar, se deben establecer las salvaguardas que dan cumplimiento a la misma.
+
+**Gestión de riesgos**
