@@ -6,3 +6,5 @@ dirbuster&
 
 ffuf
 dirsearch
+
+msfconsole
