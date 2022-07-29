@@ -8,3 +8,4 @@ ffuf
 dirsearch
 
 msfconsole
+searchexploit
