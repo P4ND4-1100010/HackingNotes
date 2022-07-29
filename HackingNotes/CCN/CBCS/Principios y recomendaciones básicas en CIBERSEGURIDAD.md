@@ -304,4 +304,34 @@ Pasos básicos para desarrollar una estrategia:
 
 Una vez implantada una política de seguridad, determinando el riesgo que se está dispuesto a aceptar, se deben establecer las salvaguardas que dan cumplimiento a la misma.
 
-**Gestión de riesgos**
+**Gestión de riesgos**: utiliza los resultados del análisis de riegos para seleccionar e implantar las medidas de seguridad adecuadas para controlar los riesgos identificados.
+
+Las **medidas de seguridad** se pueden clasificar en:
+* Preventivas
+	Tienen como objeto reducir el riego.
+	* Protección física: guardias, control de acceso...
+	* Medidas técnicas: cortafuegos, detectores de intrusos...
+	* Medidas procedimentales: cursos de mentalización, actualización de conocimientos...
+* Análisis
+	Tienen como objeto identificar el riesgo
+	* Protección física: sistemas de vigilancia, detectores de movimiento...
+	* Medidas técnicas: control de acceso lógico, sesión de autenticación...
+	* Medidas procedimentales: gestión de logs, monitorización de auditoría...
+* Correctivas
+	Tienen como objeto impedir o reducir el impacto sobre los activos.
+	* Protección física: respaldo de fuente de alimentación (SAI)...
+	* Medidas técnicas: programa antivirus, auditorías, respaldo de seguridad...
+	* Medidas procedimentales: planes de contingencia...
+
+##### Gobernanza
+Aspectos claves de una organización:
+* Gobernanza
+* Estructura
+* Experiencia
+* Entrenamiento
+* Certificaciones del personal
+
+Se deben establecer los mecanismos de gerencia y gestión de la seguridad.
+Es recomendable implantar el denominado SGSI (Sistema de Gestión de la Seguridad de la Información).
+
+El SGSI: Es u
