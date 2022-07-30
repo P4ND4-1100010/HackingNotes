@@ -353,4 +353,27 @@ Configuración y gestión de software:
 
 Pautas contraseñas:
 * No usar información relacionada con el usuario en las contraseñas.
+* Longitud mínima de 8 caracteres con diferentes tipos de caracteres tipográficos.
+* Cambios periódicos de esta.
+* No compartir cuentas con otros usuarios.
+* No anotar contraseñas en sitios de fácil acceso, ni almacenarlas en ficheros en el ordenador sin ninguna protección.
+* Limitar la posibilidad de "Recordad contraseña".
+
+##### Vigilancia
+Se debe valorar un proceso continuo de análisis de vulnerabilidades tanto automático como manual.
+
+En el SOC (Centro de Operaciones de Seguridad) se mejoran las capacidades de vigilancia y detección de incidentes y se optimiza la capacidad de reacción y respuesta ante cualquier ataque.
+
+Llevar a cabo un bloque de servicios basados en:
+* Monitorización de seguridad
+* Protección y filtrado de contenidos maliciosos
+* Respuesta a incidentes
+* Análisis de Vulnerabilidades
+
+##### Continuidad del Negocio/Políticas de Respaldo
+Consiste en disponer de un plan alternativo en caso de que ocurra un desastre en los sistemas TIC de la entidad. Debe estar documentado para tener claro los pasos a seguir ante una incidencia y poder volver a la situación previa de normalidad lo antes posible.
+
+Se deberá realizar:
+* Pruebas de los planes
+* Realizar copias de respaldo de manera regular para asegurar la integridad/disponibilidad
 * 
