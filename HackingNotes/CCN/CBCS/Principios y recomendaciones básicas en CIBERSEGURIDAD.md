@@ -346,3 +346,11 @@ La oficina de seguridad deberá:
 * Auditorías de cumplimiento normativo.
 * Soporte a los órganos de gobierno de la seguridad.
 * Seguimiento y mejora del estado y gestión de la seguridad.
+
+Configuración y gestión de software:
+* Archivos ejecutables y plantillas de documentos compartidos deben estar en un directorio de solo lectura.
+* Cada usuario debe tener su propio directorio personal en la red con acceso de lectura/escritura y restringido para lectura para otros usuarios para prevenir previsibles diseminaciones de software malicioso de la máquina local a la red.
+
+Pautas contraseñas:
+* No usar información relacionada con el usuario en las contraseñas.
+* 
