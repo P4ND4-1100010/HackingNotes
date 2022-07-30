@@ -376,4 +376,7 @@ Consiste en disponer de un plan alternativo en caso de que ocurra un desastre en
 Se deberá realizar:
 * Pruebas de los planes
 * Realizar copias de respaldo de manera regular para asegurar la integridad/disponibilidad
-* 
+
+#### Gestión de Incidentes
+Se debe disponer de un protocolo eficaz de respuesta donde la velocidad con la cual se reconozca, analice y responda al incidete limitará el daño y minimizará el coste de la recuperación.
+La entidades debe notificar y compartir incidentes con las organizaciones correspondientes. Es esencial establecer buenas prácticas de notificación, utilización de taxonomía común y procedimientos para la notificación de los mismos.
