@@ -380,3 +380,10 @@ Se deberá realizar:
 #### Gestión de Incidentes
 Se debe disponer de un protocolo eficaz de respuesta donde la velocidad con la cual se reconozca, analice y responda al incidete limitará el daño y minimizará el coste de la recuperación.
 La entidades debe notificar y compartir incidentes con las organizaciones correspondientes. Es esencial establecer buenas prácticas de notificación, utilización de taxonomía común y procedimientos para la notificación de los mismos.
+
+Se deberá considerar:
+* Establecimiento de sistemas de dectección y reacción frente a código dañino
+* Registro de los incidentes de seguridad que se produzcan y las acciones de tratamiento que se sigan
+* Soporte y coordinación para el tratamiento de vulnerabilidades y la resolución de incidentes de seguridad.
+* Proporcionar información sobre vulnerabilidades, alertas y avisos de nuevas amenazas.
+* La formación al objeto de mejorar las capacidades para la detección y gestión de incidentes.
