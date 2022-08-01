@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PNPT/WEEK 6, DAY 1, 2.md",
+            "file": "Encoding & Hashing.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT/WEEK 6, DAY 1, 2.md",
+                "file": "Encoding & Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "574dfbbcf3215f73",
   "lastOpenFiles": [
+    "PNPT/WEEK 6, DAY 1, 2.md",
     "PNPT/WEEK 5, DAY 1.md",
     "PNPT/WEEK 4, DAY 2.md",
     "PNPT/WEEK 4, DAY 1.md",
@@ -97,7 +98,6 @@
     "PNPT/Pasted image 20220706182723.png",
     "PNPT/Pasted image 20220706181815.png",
     "CCN/CBFL/Tema 1 - Introducción y distribuciones LINUX.md",
-    "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md",
-    "PNPT/WEEK 6, DAY 1, 2.md"
+    "CCN/CBCS/Principios y recomendaciones básicas en CIBERSEGURIDAD.md"
   ]
 }
